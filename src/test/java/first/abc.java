@@ -13,7 +13,7 @@ package first;
 
 	public class abc {
 		
-		String expectedTitle="Googl";
+		String expectedTitle="Google";
 		
 		@Test
 		public void test() {
