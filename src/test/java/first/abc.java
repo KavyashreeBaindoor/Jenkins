@@ -23,7 +23,7 @@ package first;
 			d.get("https://www.google.com/");
 			System.out.println(d.getTitle());
 			assertEquals(d.getTitle(), expectedTitle,"failed bcz the title dint match");
-			
+			System.out.println(d.getTitle());
 			d.quit();
 			
 			
